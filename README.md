@@ -1,3 +1,3 @@
 # brownian-motion-simulation
 
-![ddd](demo-min.gif)
+![](demo-min.gif)
